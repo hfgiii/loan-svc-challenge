@@ -4,13 +4,16 @@
 
 1. In your own working environment, make a local clone of this repo.  (Do not make a GitHub fork.  That's public!)
 
-```https://github.com/interview4aria/interview.git```
+```https://github.com/interview4aria/loan-svc-challenge.git```
 
 2. Code the exercise.  A copy of this task description is in the file “trial_desc.md”.
+If Scala is not your primary language, do the best you can within a limit of 3 hours. 
 
 3. When you’re done, make a zip of your repo like this and email it back to us.
 
 ```git archive --format zip --output [your-zipped-filename-here] master```
+
+4. Be prepared to present your code and run a demonstration during your follow-up interview.
 
 
 ## Task
